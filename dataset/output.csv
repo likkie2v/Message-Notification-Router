@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6724,message_0243;message_0102;message_0101
+msg_091,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0238
+msg_090,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_048,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0151
+msg_040,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0136
+msg_075,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6568,message_0206;message_0205
+msg_005,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6607,message_0065;message_0382;message_0049
+msg_104,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0383;message_0224;message_0232
+msg_069,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0080;message_0177;message_0193
+msg_107,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0213;message_0235;message_0056
+msg_070,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0369;message_0213;message_0235
+msg_003,notify,urgent,Strong historical relevance and engagement suggest this message deserves immediate attention.,0.7221,message_0400;message_0031;message_0061
+msg_099,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0227;message_0249;message_0055
+msg_008,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0296;message_0072;message_0071
+msg_092,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_060,digest,promotion,"The promotional message appears legitimate but is not urgent, so it can be shown later.",0.65,none
+msg_004,notify,business_update,Strong historical relevance and engagement suggest this message deserves immediate attention.,0.6989,message_0245;message_0005;message_0064
+msg_030,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0115;message_0335;message_0050
+msg_045,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_052,mute,urgent,The message has low relevance or elevated risk for this user.,0.65,message_0208;message_0207;message_0159
+msg_009,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0074
+msg_071,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_016,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0024
+msg_065,digest,promotion,"The promotional message appears legitimate but is not urgent, so it can be shown later.",0.65,message_0261;message_0185
+msg_038,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0131
+msg_086,notify,business_update,Strong historical relevance and engagement suggest this message deserves immediate attention.,0.652,message_0222
+msg_014,mute,promotion,Promotional content matches a pattern of low engagement or user disinterest.,0.66,message_0258;message_0018;message_0017
+msg_094,digest,promotion,"The promotional message appears legitimate but is not urgent, so it can be shown later.",0.65,none
+msg_029,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0113;message_0095;message_0332
+msg_105,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0373;message_0233
+msg_002,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0003;message_0041;message_0059
+msg_010,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6563,message_0011;message_0242;message_0075
+msg_078,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,none
+msg_013,digest,promotion,"The promotional message appears legitimate but is not urgent, so it can be shown later.",0.65,none
+msg_018,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0026
+msg_044,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0143
+msg_032,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0119;message_0285
+msg_106,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6703,message_0376;message_0234
+msg_006,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6535,message_0067;message_0097;message_0029
+msg_109,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0151;message_0150
+msg_108,mute,urgent,The message has low relevance or elevated risk for this user.,0.65,message_0094;message_0093
+msg_019,mute,business_update,The message has low relevance or elevated risk for this user.,0.65,none
+msg_088,digest,personal,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,message_0224;message_0232;message_0383
+msg_056,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0226;message_0359
+msg_027,digest,business_update,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,message_0272;message_0033;message_0007
+msg_050,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0279;message_0155
+msg_083,digest,urgent,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.654,message_0219
+msg_063,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_033,digest,forward,The forwarded content is not urgent and can be included in a later digest.,0.65,none
+msg_061,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0080;message_0177;message_0193
+msg_020,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.655,none
+msg_017,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_058,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0039;message_0040;message_0241
+msg_026,mute,business_update,The message has low relevance or elevated risk for this user.,0.65,message_0032;message_0107
+msg_047,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0001;message_0098;message_0068
+msg_046,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0148
+msg_042,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0058;message_0140
+msg_079,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0369
+msg_098,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0226;message_0359;message_0168
+msg_037,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_007,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_085,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.6629,message_0221
+msg_001,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6673,message_0057;message_0139;message_0240
+msg_021,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6707,message_0098;message_0068;message_0029
+msg_028,mute,promotion,Promotional content matches a pattern of low engagement or user disinterest.,0.65,message_0034;message_0112;message_0111
+msg_012,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0194;message_0178;message_0079
+msg_064,digest,personal,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,none
+msg_103,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6523,message_0065;message_0382;message_0231
+msg_031,digest,personal,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,none
+msg_057,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0059;message_0169;message_0003
+msg_087,digest,personal,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,none
+msg_067,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0098;message_0068;message_0029
+msg_039,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0364;message_0051;message_0403
+msg_082,digest,personal,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,message_0218;message_0397;message_0380
+msg_066,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.6567,none
+msg_049,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.69,message_0154;message_0291
+msg_015,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0045;message_0023
+msg_051,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.6632,message_0257;message_0103
+msg_097,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0359;message_0167;message_0054
+msg_089,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_053,digest,forward,The forwarded content is not urgent and can be included in a later digest.,0.65,message_0253;message_0411;message_0161
+msg_059,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_024,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.6632,message_0257;message_0103
+msg_072,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0045;message_0023
+msg_036,mute,business_update,The message has low relevance or elevated risk for this user.,0.65,message_0283;message_0127
+msg_076,mute,urgent,The message has low relevance or elevated risk for this user.,0.65,message_0208;message_0207;message_0159
+msg_055,notify,urgent,High urgency and sufficient trust indicate that immediate attention is needed.,0.6743,message_0166
+msg_102,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.6662,message_0371;message_0230
+msg_080,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_093,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,none
+msg_034,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0013;message_0167;message_0039
+msg_035,digest,business_update,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0281;message_0125
+msg_101,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0370;message_0229;message_0268
+msg_041,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0137;message_0138
+msg_011,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0123;message_0077;message_0171
+msg_110,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0238
+msg_095,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,none
+msg_074,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,message_0203;message_0223;message_0389
+msg_073,notify,forward,High urgency and sufficient trust indicate that immediate attention is needed.,0.67,none
+msg_054,mute,scam,"Suspicious or scam-like content detected, so the message should be muted.",0.65,message_0389
+msg_068,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_100,notify,urgent,High urgency and sufficient trust indicate that immediate attention is needed.,0.7089,message_0362;message_0228;message_0117
+msg_062,digest,forward,The forwarded content is not urgent and can be included in a later digest.,0.65,message_0043
+msg_096,digest,personal,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,none
+msg_043,mute,forward,Repeated forwarded content has low priority and is suitable for suppression.,0.65,none
+msg_077,digest,urgent,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.65,message_0364;message_0051
+msg_081,digest,urgent,Media content was analyzed and the message appears useful but does not require an immediate interruption.,0.6508,message_0217
+msg_025,notify,urgent,Strong historical relevance and engagement suggest this message deserves immediate attention.,0.7247,message_0004;message_0239;message_0105
+msg_084,mute,promotion,Promotional content matches a pattern of low engagement or user disinterest.,0.65,none
+msg_022,digest,urgent,The message appears legitimate but does not show enough urgency or relevance for an immediate notification.,0.65,message_0151;message_0099
